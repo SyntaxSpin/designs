@@ -1,4 +1,4 @@
-# SyntaxSpin-designes
+# SyntaxSpin-designs
 Legals about SyntaxSpin's designs
 
 <p>This is about The design contribution for some apps like ghost web ide or robok or layout designer or sparkleside or any contributed projects </p>
